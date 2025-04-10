@@ -1,6 +1,6 @@
 ## **Nombres**
 
-Katherin Juliana Moreno Carvajal, Santiago Navarro Cuy y Mariana Salas Gutiérrez
+Katherin Juliana Moreno Carvajal y Mariana Salas Gutiérrez
 
 # Desarrollo Guiado por Pruebas - Caso práctico
 
